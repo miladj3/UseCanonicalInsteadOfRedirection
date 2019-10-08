@@ -1,4 +1,4 @@
-# UseCanonicalInsteadOfRedirection
+# canonical instead of a redirection
 
 
 One of the methods for improved the performance of this website is Use canonical instead of a redirection.
